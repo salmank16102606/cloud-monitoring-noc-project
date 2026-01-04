@@ -1,2 +1,3 @@
-# Intelligent-Cloud-Cost-Optimization-System
-An intelligent system to optimize cloud costs by analyzing usage and suggesting cost-saving strategies.
+# cloud-monitoring-noc-project
+AWS Cloud Monitoring & Alerting NOC Project using EC2, CloudWatch Metrics, Logs, Dashboards & SNS
+
